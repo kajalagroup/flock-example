@@ -1,0 +1,3 @@
+#!/bin/bash
+
+flock --nonblock ./script1.lock ./script1

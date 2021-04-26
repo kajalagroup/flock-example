@@ -1,0 +1,6 @@
+#!/bin/bash
+
+while [ 1 ]; do
+    echo "`date -R` script1 idling..."
+    sleep 1
+done
